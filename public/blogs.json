@@ -1,7 +1,7 @@
 [
     {
         "id": 123456,
-        "cover_img": "/images/123456.jpg",
+        "cover_img": "https://i.ibb.co/tP1N6bv/mohammad-rahmani-Lrx-Sl4-Zxo-Rs-unsplash.jpg",
         "title": "The Enigmatic Universe",
         "author": "Amanda Smith",
         "author_img": "/images/authors/amanda_smith.jpg",
@@ -11,7 +11,7 @@
     },
     {
         "id": 789012,
-        "cover_img": "/images/789012.png",
+        "cover_img": "https://i.ibb.co/tP1N6bv/mohammad-rahmani-Lrx-Sl4-Zxo-Rs-unsplash.jpg",
         "title": "Exploring the Mysteries of Deep Sea",
         "author": "John Doe",
         "author_img": "/images/authors/john_doe.jpg",
@@ -21,7 +21,7 @@
     },
     {
         "id": 345678,
-        "cover_img": "/images/345678.jpg",
+        "cover_img": "https://i.ibb.co/tP1N6bv/mohammad-rahmani-Lrx-Sl4-Zxo-Rs-unsplash.jpg",
         "title": "Unveiling the Secrets of Ancient Civilizations",
         "author": "Emily Johnson",
         "author_img": "/images/authors/emily_johnson.jpg",
@@ -31,7 +31,7 @@
     },
     {
         "id": 901234,
-        "cover_img": "/images/901234.jpg",
+        "cover_img": "https://i.ibb.co/tP1N6bv/mohammad-rahmani-Lrx-Sl4-Zxo-Rs-unsplash.jpg",
         "title": "The Art of Mindfulness",
         "author": "Michael Brown",
         "author_img": "/images/authors/michael_brown.jpg",
@@ -41,7 +41,7 @@
     },
     {
         "id": 567890,
-        "cover_img": "/images/567890.png",
+        "cover_img": "https://i.ibb.co/tP1N6bv/mohammad-rahmani-Lrx-Sl4-Zxo-Rs-unsplash.jpg",
         "title": "Journey to the Heart of Artificial Intelligence",
         "author": "Sarah Thompson",
         "author_img": "/images/authors/sarah_thompson.jpg",
