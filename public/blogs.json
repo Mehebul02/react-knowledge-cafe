@@ -1,0 +1,52 @@
+[
+    {
+        "id": 123456,
+        "cover_img": "/images/123456.jpg",
+        "title": "The Enigmatic Universe",
+        "author": "Amanda Smith",
+        "author_img": "/images/authors/amanda_smith.jpg",
+        "profile_date": "2023-09-15",
+        "reading_time": "10",
+        "hashtags": ["#space", "#cosmos", "#science"]
+    },
+    {
+        "id": 789012,
+        "cover_img": "/images/789012.png",
+        "title": "Exploring the Mysteries of Deep Sea",
+        "author": "John Doe",
+        "author_img": "/images/authors/john_doe.jpg",
+        "profile_date": "2024-01-22",
+        "reading_time": "8",
+        "hashtags": ["#ocean", "#marinebiology", "#exploration"]
+    },
+    {
+        "id": 345678,
+        "cover_img": "/images/345678.jpg",
+        "title": "Unveiling the Secrets of Ancient Civilizations",
+        "author": "Emily Johnson",
+        "author_img": "/images/authors/emily_johnson.jpg",
+        "profile_date": "2022-11-30",
+        "reading_time": "15",
+        "hashtags": ["#history", "#archaeology", "#culture"]
+    },
+    {
+        "id": 901234,
+        "cover_img": "/images/901234.jpg",
+        "title": "The Art of Mindfulness",
+        "author": "Michael Brown",
+        "author_img": "/images/authors/michael_brown.jpg",
+        "profile_date": "2023-06-10",
+        "reading_time": "12",
+        "hashtags": ["#mindfulness", "#wellness", "#meditation"]
+    },
+    {
+        "id": 567890,
+        "cover_img": "/images/567890.png",
+        "title": "Journey to the Heart of Artificial Intelligence",
+        "author": "Sarah Thompson",
+        "author_img": "/images/authors/sarah_thompson.jpg",
+        "profile_date": "2024-02-28",
+        "reading_time": "20",
+        "hashtags": ["#AI", "#technology", "#future"]
+    }
+]
