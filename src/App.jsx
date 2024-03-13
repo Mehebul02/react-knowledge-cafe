@@ -13,8 +13,10 @@ function App() {
     const newBookmark =[...bookmarks,blog];
     setBookmark(newBookmark)
   }
-  const handleReadMark =(time)=>{
+  const handleReadMark =(id,time)=>{
     setReadTime(readTime+time)
+    const remainingBookMark=bookmarks.filter(bookmark =>bookmark.id !== id)
+    setBookmark(remainingBookMark)
   }
   
   return (
@@ -22,7 +24,10 @@ function App() {
     <Header></Header>
    <div className='md:flex justify-between  max-w-7xl mx-auto'>
    <Blogs handleReadMark={handleReadMark} handleToBookMark={handleToBookMark}></Blogs>
-  <BookMarks bookmarks={bookmarks} handleReadMark={handleReadMark} readTime={readTime}></BookMarks>
+  <BookMarks 
+  bookmarks={bookmarks} 
+  handleReadMark={handleReadMark} 
+  readTime={readTime}></BookMarks>
    </div>
       
     </>
